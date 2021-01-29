@@ -23,3 +23,7 @@ import pandas
 df=pd.Dataframe({"one":[1,2,3]})
 
 df.head()
+
+# Display image 
+
+["vespa"](v.jpg)
