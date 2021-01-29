@@ -26,4 +26,4 @@ df.head()
 
 # Display image 
 
-![alt vespa](v.jpg)
+![alt v](v.jpg)
